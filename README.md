@@ -4,6 +4,10 @@ A robust command-line interface (CLI) calculator built with Python, focusing on 
 
 ## 🚀 Project Overview (SDLC)
 
+Name: Solomon Dickson
+Matric: 24/13749
+Department: Computer Science
+
 ### 1. Requirements
 - Perform basic operations: Addition, Subtraction, Multiplication, Division.
 - Guard against "Division by Zero" errors.
